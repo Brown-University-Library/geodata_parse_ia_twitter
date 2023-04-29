@@ -1,0 +1,825 @@
+{
+    "1587233475802943491": {
+        "created_at": "Tue Nov 01 00:02:04 +0000 2022",
+        "id": 1587233475802943491,
+        "id_str": "1587233475802943491",
+        "text": "\u3010M3.9\u3011ISLAS TALAUD, INDONESIA 3km 31/10/2022 23:43:10 UTC #Sismo #Terremoto\n(G)https://t.co/dTcFzvpjLr (EMSC)https://t.co/KMW1LbYFXk",
+        "source": "<a href=\"http://eqmap.web.fc2.com/\" rel=\"nofollow\">twitbot_h</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2920049156,
+            "id_str": "2920049156",
+            "name": "Sismo Mapa",
+            "screen_name": "eq_map_es2",
+            "location": null,
+            "url": null,
+            "description": "Sismos Magnitud 3.0+ en el Mundo. | magnitud | region | profundidad | UTC | Google Maps URL | EMSC URL |",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4507,
+            "friends_count": 1,
+            "listed_count": 93,
+            "favourites_count": 0,
+            "statuses_count": 139622,
+            "created_at": "Fri Dec 05 23:51:25 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/541018501058551808/g6N6W14-_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/541018501058551808/g6N6W14-_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                4.69,
+                127.14
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                127.14,
+                4.69
+            ]
+        },
+        "place": {
+            "id": "5a19e3218678426b",
+            "url": "https://api.twitter.com/1.1/geo/id/5a19e3218678426b.json",
+            "place_type": "admin",
+            "name": "Sulawesi Utara",
+            "full_name": "Sulawesi Utara, Indonesia",
+            "country_code": "ID",
+            "country": "Indonesia",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            123.110851,
+                            0.292006
+                        ],
+                        [
+                            123.110851,
+                            4.808876
+                        ],
+                        [
+                            127.149773,
+                            4.808876
+                        ],
+                        [
+                            127.149773,
+                            0.292006
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Sismo",
+                    "indices": [
+                        58,
+                        64
+                    ]
+                },
+                {
+                    "text": "Terremoto",
+                    "indices": [
+                        65,
+                        75
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/dTcFzvpjLr",
+                    "expanded_url": "http://maps.google.co.jp/maps?q=4.69,127.14%28+%5BM3.9%5D+ISLAS+TALAUD%2C+INDONESIA+3km+31%2F10%2F2022+23%3A43%3A10+UTC+%29&ll=4.69,127.14&z=3&t=h",
+                    "display_url": "maps.google.co.jp/maps?q=4.69,12\u2026",
+                    "indices": [
+                        79,
+                        102
+                    ]
+                },
+                {
+                    "url": "https://t.co/KMW1LbYFXk",
+                    "expanded_url": "http://www.emsc-csem.org/Earthquake/earthquake.php?id=1184419",
+                    "display_url": "emsc-csem.org/Earthquake/ear\u2026",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "in",
+        "timestamp_ms": "1667260924660"
+    },
+    "1587233656183042049": {
+        "created_at": "Tue Nov 01 00:02:47 +0000 2022",
+        "id": 1587233656183042049,
+        "id_str": "1587233656183042049",
+        "text": "See our latest Waikiki, HI Security Officer job opportunity and click the link in our bio to apply: Security Guard\u2026 https://t.co/ylSXr61ajg",
+        "source": "<a href=\"https://www.careerarc.com\" rel=\"nofollow\">CareerArc 2.0</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 118676339,
+            "id_str": "118676339",
+            "name": "TMJ-HON Security Job",
+            "screen_name": "tmj_HON_secure",
+            "location": "Honolulu, HI",
+            "url": "http://bit.ly/2KhHOh4",
+            "description": "Follow this account for geo-targeted Security job tweets in Honolulu, HI. Need help? Tweet us at @CareerArc!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 199,
+            "friends_count": 180,
+            "listed_count": 27,
+            "favourites_count": 0,
+            "statuses_count": 335,
+            "created_at": "Mon Mar 01 12:31:29 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "253956",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "407DB0",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/706469966766174208/mjUPMCkB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/706469966766174208/mjUPMCkB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/118676339/1457270542",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                21.285002,
+                -157.835698
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -157.835698,
+                21.285002
+            ]
+        },
+        "place": {
+            "id": "c47c0bc571bf5427",
+            "url": "https://api.twitter.com/1.1/geo/id/c47c0bc571bf5427.json",
+            "place_type": "city",
+            "name": "Honolulu",
+            "full_name": "Honolulu, HI",
+            "country_code": "US",
+            "country": "United States",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -157.950476,
+                            21.254837
+                        ],
+                        [
+                            -157.950476,
+                            21.38505
+                        ],
+                        [
+                            -157.648702,
+                            21.38505
+                        ],
+                        [
+                            -157.648702,
+                            21.254837
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "See our latest Waikiki, HI Security Officer job opportunity and click the link in our bio to apply: Security Guard - Retail Full Time at Allied Universal #SecurityOfficer #SecurityGuard",
+            "display_text_range": [
+                0,
+                185
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SecurityOfficer",
+                        "indices": [
+                            154,
+                            170
+                        ]
+                    },
+                    {
+                        "text": "SecurityGuard",
+                        "indices": [
+                            171,
+                            185
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ylSXr61ajg",
+                    "expanded_url": "https://twitter.com/i/web/status/1587233656183042049",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1667260967666"
+    },
+    "1587233769412501506": {
+        "created_at": "Tue Nov 01 00:03:14 +0000 2022",
+        "id": 1587233769412501506,
+        "id_str": "1587233769412501506",
+        "text": "Neuer #Minijob in #W\u00fclfrath: K\u00fcchenhelfer (m/w/d) in W\u00fclfrath\n#Job #Aushilfe #Nebenjob #Stellenangebot\n\nJetzt bewer\u2026 https://t.co/M1OBv49uwa",
+        "source": "<a href=\"https://www.minijob-anzeigen.de\" rel=\"nofollow\">minijob-anzeigen.de</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1069583615762288642,
+            "id_str": "1069583615762288642",
+            "name": "minijob-anzeigen.de",
+            "screen_name": "minijobanzeigen",
+            "location": "Germany",
+            "url": "https://www.minijob-anzeigen.de",
+            "description": "Twitterprofil von http://minijob-anzeigen.de Impressum: https://www.minijob-anzeigen.de/Impressum",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 49,
+            "friends_count": 4,
+            "listed_count": 0,
+            "favourites_count": 3,
+            "statuses_count": 82108,
+            "created_at": "Mon Dec 03 13:26:20 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1069596441348313088/O0ywk-cL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069596441348313088/O0ywk-cL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069583615762288642/1543908259",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                51.282,
+                7.0382
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                7.0382,
+                51.282
+            ]
+        },
+        "place": {
+            "id": "7c7c1516e3840fc6",
+            "url": "https://api.twitter.com/1.1/geo/id/7c7c1516e3840fc6.json",
+            "place_type": "city",
+            "name": "W\u00fclfrath",
+            "full_name": "W\u00fclfrath, Deutschland",
+            "country_code": "DE",
+            "country": "Deutschland",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.980511,
+                            51.254845
+                        ],
+                        [
+                            6.980511,
+                            51.325642
+                        ],
+                        [
+                            7.098974,
+                            51.325642
+                        ],
+                        [
+                            7.098974,
+                            51.254845
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Neuer #Minijob in #W\u00fclfrath: K\u00fcchenhelfer (m/w/d) in W\u00fclfrath\n#Job #Aushilfe #Nebenjob #Stellenangebot\n\nJetzt bewerben!\nhttps://t.co/tpAJk1FrbY",
+            "display_text_range": [
+                0,
+                143
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Minijob",
+                        "indices": [
+                            6,
+                            14
+                        ]
+                    },
+                    {
+                        "text": "W\u00fclfrath",
+                        "indices": [
+                            18,
+                            27
+                        ]
+                    },
+                    {
+                        "text": "Job",
+                        "indices": [
+                            62,
+                            66
+                        ]
+                    },
+                    {
+                        "text": "Aushilfe",
+                        "indices": [
+                            67,
+                            76
+                        ]
+                    },
+                    {
+                        "text": "Nebenjob",
+                        "indices": [
+                            77,
+                            86
+                        ]
+                    },
+                    {
+                        "text": "Stellenangebot",
+                        "indices": [
+                            87,
+                            102
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/tpAJk1FrbY",
+                        "expanded_url": "https://www.minijob-anzeigen.de/-314py",
+                        "display_url": "minijob-anzeigen.de/-314py",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Minijob",
+                    "indices": [
+                        6,
+                        14
+                    ]
+                },
+                {
+                    "text": "W\u00fclfrath",
+                    "indices": [
+                        18,
+                        27
+                    ]
+                },
+                {
+                    "text": "Job",
+                    "indices": [
+                        62,
+                        66
+                    ]
+                },
+                {
+                    "text": "Aushilfe",
+                    "indices": [
+                        67,
+                        76
+                    ]
+                },
+                {
+                    "text": "Nebenjob",
+                    "indices": [
+                        77,
+                        86
+                    ]
+                },
+                {
+                    "text": "Stellenangebot",
+                    "indices": [
+                        87,
+                        102
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/M1OBv49uwa",
+                    "expanded_url": "https://twitter.com/i/web/status/1587233769412501506",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de",
+        "timestamp_ms": "1667260994662"
+    },
+    "1587233865898536960": {
+        "created_at": "Tue Nov 01 00:03:37 +0000 2022",
+        "id": 1587233865898536960,
+        "id_str": "1587233865898536960",
+        "text": "Construction on #NJ29 NB from South of Warren St to South of I-295 https://t.co/j3V0FUrr77",
+        "source": "<a href=\"https://511ny.org\" rel=\"nofollow\">511NY-Tweets</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 50706690,
+            "id_str": "50706690",
+            "name": "511 New York",
+            "screen_name": "511NY",
+            "location": "New York State",
+            "url": "http://twitter.511ny.org",
+            "description": "Traffic & transit updates for all of New York State provided by New York State 511. Visit the website for more feeds.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4036,
+            "friends_count": 191,
+            "listed_count": 254,
+            "favourites_count": 0,
+            "statuses_count": 5877156,
+            "created_at": "Thu Jun 25 17:22:38 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "63CECA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0051BA",
+            "profile_sidebar_border_color": "333333",
+            "profile_sidebar_fill_color": "0099C3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/307131779/511twitlogo_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/307131779/511twitlogo_normal.png",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                40.217586,
+                -74.770072
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -74.770072,
+                40.217586
+            ]
+        },
+        "place": {
+            "id": "74767081120f9b42",
+            "url": "https://api.twitter.com/1.1/geo/id/74767081120f9b42.json",
+            "place_type": "city",
+            "name": "Trenton",
+            "full_name": "Trenton, NJ",
+            "country_code": "US",
+            "country": "United States",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.817535,
+                            40.183967
+                        ],
+                        [
+                            -74.817535,
+                            40.248298
+                        ],
+                        [
+                            -74.729138,
+                            40.248298
+                        ],
+                        [
+                            -74.729138,
+                            40.183967
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NJ29",
+                    "indices": [
+                        16,
+                        21
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/j3V0FUrr77",
+                    "expanded_url": "http://511ny.org/EventDetails/TRANSCOM/ORI1237021620",
+                    "display_url": "511ny.org/EventDetails/T\u2026",
+                    "indices": [
+                        67,
+                        90
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1667261017666"
+    },
+    "1587233870088388616": {
+        "created_at": "Tue Nov 01 00:03:38 +0000 2022",
+        "id": 1587233870088388616,
+        "id_str": "1587233870088388616",
+        "text": "Construction on #Q32Bus from 5th Ave and 32nd St to Lexington Av and 32nd St https://t.co/vdkNVEEt7x",
+        "source": "<a href=\"https://511ny.org\" rel=\"nofollow\">511NY-Tweets</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 50706690,
+            "id_str": "50706690",
+            "name": "511 New York",
+            "screen_name": "511NY",
+            "location": "New York State",
+            "url": "http://twitter.511ny.org",
+            "description": "Traffic & transit updates for all of New York State provided by New York State 511. Visit the website for more feeds.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4035,
+            "friends_count": 191,
+            "listed_count": 254,
+            "favourites_count": 0,
+            "statuses_count": 5877161,
+            "created_at": "Thu Jun 25 17:22:38 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "63CECA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0051BA",
+            "profile_sidebar_border_color": "333333",
+            "profile_sidebar_fill_color": "0099C3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/307131779/511twitlogo_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/307131779/511twitlogo_normal.png",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                40.747073,
+                -73.985316
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -73.985316,
+                40.747073
+            ]
+        },
+        "place": {
+            "id": "01a9a39529b27f36",
+            "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+            "place_type": "city",
+            "name": "Manhattan",
+            "full_name": "Manhattan, NY",
+            "country_code": "US",
+            "country": "United States",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.026675,
+                            40.683935
+                        ],
+                        [
+                            -74.026675,
+                            40.877483
+                        ],
+                        [
+                            -73.910408,
+                            40.877483
+                        ],
+                        [
+                            -73.910408,
+                            40.683935
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Q32Bus",
+                    "indices": [
+                        16,
+                        23
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vdkNVEEt7x",
+                    "expanded_url": "http://511ny.org/EventDetails/TRANSCOM/ORT200246508",
+                    "display_url": "511ny.org/EventDetails/T\u2026",
+                    "indices": [
+                        77,
+                        100
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1667261018665"
+    }
+}

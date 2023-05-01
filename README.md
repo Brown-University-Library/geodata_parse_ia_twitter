@@ -18,6 +18,8 @@ This script was tested using the daily file from [November 1, 2022](https://arch
    
    Note: reading the JSON files into the program happens quickly, but parsing the strings to dictionaries takes a bit longer. You can modify the parsing section to grab tweets based on elements other than the geo element, but be aware this will increase processing time. When I attempted to parse and save all 4 million tweets, memory became an issue and the program ground to a halt after 750,000 records. You will have to apply some filters. As very few records are geolocated, the process ran smoothly.
 
-6. Open *twitter_parse_ia_files.py* and change the name of the input file so it matches the JSON file output by the previous script. This scripts reads the JSON file, pulls out specific elements and values, and writes these to a list structure that is output to a CSV. Values that include longitude and latitude were captured, so the tweets can be plotted in GIS. 
+6. Open *twitter_parse_ia_files.py* and change the name of the input file so it matches the JSON file output by the previous script. This script reads the JSON file, pulls out specific elements and values, and writes these to a list structure that is output to a CSV. Values that include longitude and latitude were captured, so the tweets can be plotted in GIS. 
 
 If you want to modify what's extracted in step 6, you can look at some of the output from step 5, or in the sample data folder which contains a sample of 77,000 tweets (geo and non-geolocated), and a pretty printed version of a few geolocated json records.
+
+![Sample Tweets from Internet Archive Nov 1, 2022](tweet_map_nov_1_2022.png)

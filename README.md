@@ -12,9 +12,13 @@ This script was tested using the daily file from [November 1, 2022](https://arch
 
 3. Unzip the TAR, which creates a subfolder for that date, which contains individual gz zip files
 
-4. Unzip all of the gz zip files, to reveal many individual json files
+4. Unzip all of the gz zip files, to reveal many individual json files. NOTE: not all of the Internet Archive files are structured the same way; in order for the script to find the input, make sure the unzipped JSON files are in a subfolder that's one level below the folder that holds the scripts.
+   
+   ![!Folder with scripts and data subfolder](files_1.png)
+   
+   ![Subfolder with unzipped data](files_2.png)
 
-5. Open *twitter_parse_ia_files.py* and change the name of the json directory at the top, to match the name of the date subfolder. Run the script. The data is stored in a JSONL format; the script iterates through the JSON files and reads each JSONL record in as a string, which it appends to a list, and then iterates through the list to parse each string to a dictionary. Any dictionary that has geolocated information is saved to a new dictionary, which is output as a regular JSON file.
+5. Open *twitter_parse_ia_files.py* and change the name of the json directory at the top, to match the name of the date subfolder  Run the script. The data is stored in a JSONL format; the script iterates through the JSON files and reads each JSONL record in as a string, which it appends to a list, and then iterates through the list to parse each string to a dictionary. Any dictionary that has geolocated information is saved to a new dictionary, which is output as a regular JSON file.
    
    Note: reading the JSON files into the program happens quickly, but parsing the strings to dictionaries takes a bit longer. You can modify the parsing section to grab tweets based on elements other than the geo element, but be aware this will increase processing time. When I attempted to parse and save all 4 million tweets, memory became an issue and the program ground to a halt after 750,000 records. You will have to apply some filters. As very few records are geolocated, the process ran smoothly.
 

@@ -8,11 +8,11 @@ This script was tested using the daily file from [November 1, 2022](https://arch
 
 1. Download this repo, or clone it
 
-2. Download a single, daily file from https://archive.org/details/twitterstream as a TAR, place it in the same folder as the scripts
+2. Download a single, daily file from https://archive.org/details/twitterstream and place it in the same folder as the scripts. The archive file format has differed over time, but is usually a ZIP or TAR file.
 
-3. Unzip the TAR, which creates a subfolder for that date, which contains individual gz zip files
+3. Unzip the ZIP / TAR file, which creates a subfolder for that date, which contains additional, individual archive files. Again, these archive formats vary and could include tar, zip, gz, bz2, or 7z.
 
-4. Unzip all of the gz zip files, to reveal many individual json files. NOTE: not all of the Internet Archive files are structured the same way; in order for the script to find the input, make sure the unzipped JSON files are in a subfolder that's one level below the folder that holds the scripts.
+4. Unzip all of the individual archived files, to reveal many individual json files. NOTE: not all of the Internet Archive files are organized in the same way. In this example, the zipped (gz) JSON files are stored directly in the top folder. In other cases, these files may be separated and nested in several subfolders. As long as the top folder is stored in the same folder as the scripts, and all of the JSON files have been unzipped, the script will function properly. There are many programs (7-zip for example) that can be used for unzipping multiple files at once.
    
    ![!Folder with scripts and data subfolder](files_1.png)
    

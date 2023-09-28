@@ -7,7 +7,7 @@ https://archive.org/details/twitterstream
 
 Frank Donnelly GIS and Data Librarian
 Brown University Library
-April 26, 2023 / Rev Apr 28, 2023
+April 26, 2023 / Rev Sept 28, 2023
 """
 
 import json, csv, os
@@ -31,8 +31,12 @@ for k,v in twit_data.items():
     tweet=v.get('text')
     # Source is in HTML with anchors. Separate the link and source name
     source=v.get('source') # This is in HTML
-    source_url=source.split('"')[1] # This gets the url
-    source_name=source.strip('</a>').split('>')[-1] # This gets the name
+    if source !='':
+        source_url=source.split('"')[1] # This gets the url
+        source_name=source.strip('</a>').split('>')[-1] # This gets the name
+    else:
+        source_url=None
+        source_name=None
     lang=v.get('lang')
     # Value for long / lat is stored in a list, must specify position
     if v['geo'] !=None:
@@ -76,3 +80,4 @@ with open(outpath, 'w', newline='',encoding='utf-8') as writefile:
     writer = csv.writer(writefile, quoting=csv.QUOTE_ALL, delimiter=',')
     writer.writerow(header)
     writer.writerows(twit_list)
+print('Done!')

@@ -7,7 +7,7 @@ https://archive.org/details/twitterstream
 
 Frank Donnelly GIS and Data Librarian
 Brown University Library
-April 26, 2023 / Rev Apr 28, 2023
+April 26, 2023 / Rev Sept 28, 2023
 """
 import os,json
 
@@ -23,13 +23,14 @@ if not os.path.exists(outfolder):
 
 json_list=[] # list of lists, each sublist has 1 string element = 1 line
 
-for f in os.listdir(json_dir):
-    if f.endswith('.json'):
-        json_file=os.path.join(json_dir,f)
-        with open(json_file,'r',encoding='utf-8') as jf:
-            jfile_list = list(jf) # create list with one element, a line saved as a string 
-            json_list.extend(jfile_list)
-            print('Processed file',f,'...')
+for path, dirs, files in os.walk(json_dir):
+    for f in files:
+        if f.endswith('.json'):
+            json_file=os.path.join(path,f)
+            with open(json_file,'r',encoding='utf-8') as jf:
+                jfile_list = list(jf) # create list with one element, a line saved as a string 
+                json_list.extend(jfile_list)
+                print('Processed file',f,'...')
 
 print("Finished reading",len(json_list),'records into list')
 print('Converting geocoded JSONL records to dictionary now...')
